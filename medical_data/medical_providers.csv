@@ -1,0 +1,41 @@
+provider_id,provider_name,specialty,hospital
+1,Dr. Arjun Verma,Psychiatry,Metro Health Center
+2,Dr. Atharv Sharma,Orthopedics,Metro Health Center
+3,Dr. Krishna Sharma,Pulmonology    ,Green Valley Clinic
+4,Dr. Vihaan Yadav,General Medicine,Green Valley Clinic
+5,Dr. Vihaan Nair,Psychiatry,Metro Health Center
+6,Dr. Ishaan Nair, PSYCHIATRY  ,Metro Health Center
+7,Dr. Ishaan Iyer,General Medicine,Sunrise Hospital
+8,Dr. Atharv Kumar,Endocrinology,Metro Health Center
+9,Dr. Ishaan Sharma,Endocrinology,Green Valley Clinic
+10,Dr. Shaurya Nair, Psychiatry   ,City Care Hospital
+11,Dr. Atharv Nair,Pulmonology,Metro Health Center
+12,Dr. Shaurya Nair,Endocrinology,City Care Hospital
+13,Dr. Ishaan Sharma,Orthopedics,City Care Hospital
+14,Dr. Krishna Agarwal,Pulmonology,Green Valley Clinic
+15,Dr. Arjun Gupta,Psychiatry,Sunrise Hospital
+16,Dr. Aarav Kumar,Psychiatry,Metro Health Center
+17,Dr. Ishaan Verma,Pulmonology,Metro Health Center
+18,Dr. Aarav Kumar,General Medicine,Sunrise Hospital
+19,Dr. Ishaan Verma,Pulmonology,Metro Health Center
+20,Dr. Krishna Kumar,Pulmonology,City Care Hospital
+21,Dr. Vihaan Gupta,Psychiatry,Sunrise Hospital
+22,Dr. Reyansh Kumar,Orthopedics,City Care Hospital
+23,Dr. Shaurya Verma,Cardiology,Metro Health Center
+24,Dr. Shaurya Iyer,Endocrinology,Sunrise Hospital
+25,Dr. Ishaan Agarwal,Pulmonology,Green Valley Clinic
+26,Dr. Reyansh Iyer,Psychiatry,City Care Hospital
+27,Dr. Aarav Verma,Psychiatry,Metro Health Center
+28,Dr. Aarav Singh,Cardiology,Metro Health Center
+29,Dr. Aditya Kumar,Cardiology,Metro Health Center
+30,Dr. Shaurya Singh,Pulmonology,Green Valley Clinic
+31,Dr. Atharv Singh,Psychiatry  ,Sunrise Hospital
+32,Dr. Krishna Agarwal,General Medicine,City Care Hospital
+33,Dr. Arjun Nair,Psychiatry,City Care Hospital
+34,Dr. Atharv Kumar,Endocrinology,Sunrise Hospital
+35,Dr. Ishaan Sharma,Psychiatry,Sunrise Hospital
+36,Dr. Vihaan Iyer,General Medicine,Sunrise Hospital
+37,Dr. Vihaan Iyer,Endocrinology,Metro Health Center
+38,Dr. Shaurya Kumar,Orthopedics,City Care Hospital
+39,Dr. Vihaan Gupta,Endocrinology,City Care Hospital
+40,Dr. Aarav Agarwal, GENERAL MEDICINE   ,Metro Health Center

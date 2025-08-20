@@ -1,0 +1,961 @@
+diagnosis_id,encounter_id,patient_id,icd10_code,description,primary
+80001,50386,10060,I10,Essential (primary) hypertension,True
+80002,50522,10062,R51.9,"Headache, unspecified",True
+80003,50570,10079,E78.5,"Hyperlipidemia, unspecified",False
+80004,50207,10145, E11.9   ,Type 2 diabetes mellitus without complications,True
+80005,50532,10291,J45.909,"Unspecified asthma, uncomplicated",False
+80006,50686,10073,J10.1,Influenza with other respiratory manifestations,True
+80007,50071,10109,J10.1,Influenza with other respiratory manifestations,True
+80008,50328,10221,E11.9,Type 2 diabetes mellitus without complications,False
+80009,50658,10238,F41.9,"Anxiety disorder, unspecified",True
+80010,50573,10028,M54.5,Low back pain,True
+80011,50056,10111,J10.1,Influenza with other respiratory manifestations,False
+80012,50760,10105,F41.9,"Anxiety disorder, unspecified",True
+80013,50446,10009,M54.5,Low back pain,False
+80014,50216,10090,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80015,50220,10012,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80016,50244,10133,I10,Essential (primary) hypertension,False
+80017,50035,10109,I10,Essential (primary) hypertension,True
+80018,50004,10115,F41.9,"Anxiety disorder, unspecified",True
+80019,50026,10165,I10,Essential (primary) hypertension,False
+80020,50636,10035,J45.909,"Unspecified asthma, uncomplicated",True
+80021,50327,10072,J10.1,Influenza with other respiratory manifestations,True
+80022,50647,10056,J45.909,"Unspecified asthma, uncomplicated",True
+80023,50652,10033,E11.9,Type 2 diabetes mellitus without complications,False
+80024,50433,10134,R51.9,"Headache, unspecified",True
+80025,50390,10257,F41.9,"Anxiety disorder, unspecified",True
+80026,50142,10184,J10.1,Influenza with other respiratory manifestations,False
+80027,50536,10050,E11.9,Type 2 diabetes mellitus without complications,True
+80028,50719,10093,J10.1,Influenza with other respiratory manifestations,True
+80029,50781,10006,F41.9,"Anxiety disorder, unspecified",True
+80030,50257,10066,R51.9,"Headache, unspecified",False
+80031,50118,10039,F41.9,"Anxiety disorder, unspecified",True
+80032,50408,10122,J10.1,Influenza with other respiratory manifestations,True
+80033,50382,10236,I10,Essential (primary) hypertension,True
+80034,50762,10266,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80035,50516,10232,F41.9,"Anxiety disorder, unspecified",False
+80036,50706,10119,F41.9,"Anxiety disorder, unspecified",False
+80037,50576,10191,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80038,50110,10040,N39.0,Urinary tract infection,True
+80039,50116,10096,J45.909,"Unspecified asthma, uncomplicated",False
+80040,50310,10260,J10.1,Influenza with other respiratory manifestations,False
+80041,50382,10236,F41.9,"Anxiety disorder, unspecified",True
+80042,50794,10033,E78.5,"Hyperlipidemia, unspecified",True
+80043,50558,10067,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80044,50373,10138,M54.5,Low back pain,False
+80045,50554,10001,J45.909,"Unspecified asthma, uncomplicated",True
+80046,50274,10048,E78.5,"Hyperlipidemia, unspecified",True
+80047,50330,10136,I10,Essential (primary) hypertension,False
+80048,50466,10146,N39.0,Urinary tract infection,True
+80049,50370,10293,M54.5,Low back pain,True
+80050,50657,10076,I10,Essential (primary) hypertension,True
+80051,50281,10111,E78.5,"Hyperlipidemia, unspecified",True
+80052,50192,10058,J10.1,Influenza with other respiratory manifestations,False
+80053,50394,10189,M54.5,Low back pain,False
+80054,50426,10120,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80055,50011,10253,J10.1,Influenza with other respiratory manifestations,False
+80056,50196,10239,F41.9,"Anxiety disorder, unspecified",True
+80057,50754,10055,E78.5,"Hyperlipidemia, unspecified",True
+80058,50053,10021,M54.5,Low back pain,False
+80059,50437,10254,J10.1,Influenza with other respiratory manifestations,False
+80060,50333,10196,I10,Essential (primary) hypertension,False
+80061,50468,10279,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80062,50644,10042,E11.9,Type 2 diabetes mellitus without complications,True
+80063,50508,10093,E78.5,"Hyperlipidemia, unspecified",True
+80064,50757,10100,E78.5,"Hyperlipidemia, unspecified",True
+80065,50068,10032,J10.1,Influenza with other respiratory manifestations,False
+80066,50339,10072, J45.909 ,"Unspecified asthma, uncomplicated",False
+80067,50131,10290,J10.1,Influenza with other respiratory manifestations,False
+80068,50146,10077,N39.0,Urinary tract infection,False
+80069,50425,10205,E78.5,"Hyperlipidemia, unspecified",True
+80070,50488,10188,J45.909,"Unspecified asthma, uncomplicated",True
+80071,50354,10098,E78.5,"Hyperlipidemia, unspecified",True
+80072,50105,10283,J45.909,"Unspecified asthma, uncomplicated",False
+80073,50085,10043,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80074,50449,10142,J10.1,Influenza with other respiratory manifestations,False
+80075,50220,10012,M54.5,Low back pain,False
+80076,50383,10219,M54.5,Low back pain,False
+80077,50109,10099,R51.9,"Headache, unspecified",False
+80078,50380,10080,J45.909,"Unspecified asthma, uncomplicated",True
+80079,50021,10172,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80080,50742,10062,E78.5,"Hyperlipidemia, unspecified",True
+80081,50694,10299,N39.0,Urinary tract infection,True
+80082,50328,10221,E78.5,"Hyperlipidemia, unspecified",True
+80083,50227,10072,N39.0,Urinary tract infection,False
+80084,50377,10029,F41.9,"Anxiety disorder, unspecified",True
+80085,50112,10197,I10,Essential (primary) hypertension,True
+80086,50740,10015,E11.9,Type 2 diabetes mellitus without complications,True
+80087,50750,10270,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80088,50687,10276,E11.9,Type 2 diabetes mellitus without complications,True
+80089,50154,10286,M54.5,Low back pain,False
+80090,50458,10274,J10.1,Influenza with other respiratory manifestations,True
+80091,50610,10184,R51.9,"Headache, unspecified",False
+80092,50252,10193,N39.0,Urinary tract infection,True
+80093,50687,10276,M54.5,Low back pain,True
+80094,50016,10201,F41.9,"Anxiety disorder, unspecified",False
+80095,50725,10005,R51.9,"Headache, unspecified",True
+80096,50490,10091,M54.5,Low back pain,True
+80097,50447,10082,E78.5,"Hyperlipidemia, unspecified",True
+80098,50538,10058,E11.9,Type 2 diabetes mellitus without complications,True
+80099,50429,10011,J45.909,"Unspecified asthma, uncomplicated",True
+80100,50371,10204,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80101,50315,10296,J45.909,"Unspecified asthma, uncomplicated",True
+80102,50083,10120,J45.909,"Unspecified asthma, uncomplicated",True
+80103,50045,10272,J45.909,"Unspecified asthma, uncomplicated",False
+80104,50631,10168,I10,Essential (primary) hypertension,False
+80105,50402,10110,I10,Essential (primary) hypertension,False
+80106,50118,10039,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80107,50459,10062,E11.9,Type 2 diabetes mellitus without complications,True
+80108,50091,10165,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80109,50693,10012,E11.9,Type 2 diabetes mellitus without complications,False
+80110,50160,10217,J10.1,Influenza with other respiratory manifestations,False
+80111,50140,10249,R51.9,"Headache, unspecified",False
+80112,50130,10035,I10,Essential (primary) hypertension,True
+80113,50151,10288,I10,Essential (primary) hypertension,True
+80114,50562,10044,I10,Essential (primary) hypertension,True
+80115,50081,10167,E78.5,"Hyperlipidemia, unspecified",False
+80116,50551,10110,J10.1,Influenza with other respiratory manifestations,True
+80117,50132,10052,N39.0,Urinary tract infection,False
+80118,50381,10066,R51.9,"Headache, unspecified",False
+80119,50569,10227,J10.1,Influenza with other respiratory manifestations,True
+80120,50089,10183,J45.909,"Unspecified asthma, uncomplicated",True
+80121,50578,10264,J45.909,"Unspecified asthma, uncomplicated",True
+80122,50254,10207,E11.9,Type 2 diabetes mellitus without complications,True
+80123,50168,10228,J45.909,"Unspecified asthma, uncomplicated",True
+80124,50645,10158,J10.1,Influenza with other respiratory manifestations,False
+80125,50177,10025,I10,Essential (primary) hypertension,True
+80126,50086,10274,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80127,50223,10247,E78.5,"Hyperlipidemia, unspecified",True
+80128,50162,10094,N39.0,Urinary tract infection,True
+80129,50585,10192,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80130,50417,10196,E78.5,"Hyperlipidemia, unspecified",False
+80131,50748,10141,E11.9,Type 2 diabetes mellitus without complications,False
+80132,50026,10165,E78.5,"Hyperlipidemia, unspecified",False
+80133,50379,10136,N39.0,Urinary tract infection,False
+80134,50479,10075,J45.909,"Unspecified asthma, uncomplicated",True
+80135,50323,10244,F41.9,"Anxiety disorder, unspecified",False
+80136,50305,10018,J45.909,"Unspecified asthma, uncomplicated",False
+80137,50439,10101,J10.1,Influenza with other respiratory manifestations,False
+80138,50089,10183,F41.9,"Anxiety disorder, unspecified",True
+80139,50516,10232,I10,Essential (primary) hypertension,True
+80140,50508,10093,E78.5,"Hyperlipidemia, unspecified",True
+80141,50041,10213,J45.909,"Unspecified asthma, uncomplicated",True
+80142,50334,10292,I10,Essential (primary) hypertension,True
+80143,50498,10183,J10.1,Influenza with other respiratory manifestations,True
+80144,50049,10143,E78.5,"Hyperlipidemia, unspecified",True
+80145,50278,10293,M54.5,Low back pain,True
+80146,50507,10261,I10 ,Essential (primary) hypertension,True
+80147,50454,10228,J45.909,"Unspecified asthma, uncomplicated",True
+80148,50033,10295,M54.5,Low back pain,False
+80149,50570,10079,M54.5,Low back pain,False
+80150,50369,10101,M54.5,Low back pain,True
+80151,50556,10060,N39.0,Urinary tract infection,True
+80152,50105,10283,E11.9,Type 2 diabetes mellitus without complications,False
+80153,50190,10217,J45.909,"Unspecified asthma, uncomplicated",False
+80154,50234,10192,J45.909,"Unspecified asthma, uncomplicated",True
+80155,50340,10211,E11.9,Type 2 diabetes mellitus without complications,False
+80156,50079,10275,F41.9,"Anxiety disorder, unspecified",True
+80157,50025,10289,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80158,50170,10204,N39.0,Urinary tract infection,False
+80159,50517,10167,J10.1,Influenza with other respiratory manifestations,True
+80160,50575,10254,F41.9,"Anxiety disorder, unspecified",True
+80161,50093,10018,J45.909,"Unspecified asthma, uncomplicated",False
+80162,50263,10233,M54.5,Low back pain,False
+80163,50591,10119,M54.5,Low back pain,True
+80164,50242,10175,E11.9,Type 2 diabetes mellitus without complications,False
+80165,50209,10095,E11.9,Type 2 diabetes mellitus without complications,False
+80166,50473,10020,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80167,50431,10022,E11.9,Type 2 diabetes mellitus without complications,False
+80168,50207,10145,E78.5,"Hyperlipidemia, unspecified",True
+80169,50750,10270,R51.9,"Headache, unspecified",True
+80170,50222,10239,M54.5,Low back pain,False
+80171,50460,10246,I10,Essential (primary) hypertension,True
+80172,50292,10194,E11.9,Type 2 diabetes mellitus without complications,True
+80173,50341,10271,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80174,50669,10215,N39.0,Urinary tract infection,False
+80175,50737,10290,J45.909,"Unspecified asthma, uncomplicated",True
+80176,50254,10207,E78.5,"Hyperlipidemia, unspecified",True
+80177,50770,10170,E78.5,"Hyperlipidemia, unspecified",False
+80178,50731,10173,J45.909,"Unspecified asthma, uncomplicated",True
+80179,50629,10109,E11.9,Type 2 diabetes mellitus without complications,True
+80180,50561,10242,N39.0,Urinary tract infection,False
+80181,50752,10007,J45.909,"Unspecified asthma, uncomplicated",False
+80182,50467,10106,J45.909,"Unspecified asthma, uncomplicated",True
+80183,50192,10058,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80184,50191,10030,M54.5,Low back pain,True
+80185,50298,10292,J45.909,"Unspecified asthma, uncomplicated",True
+80186,50768,10179,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80187,50775,10228,M54.5,Low back pain,False
+80188,50495,10047,F41.9,"Anxiety disorder, unspecified",True
+80189,50643,10230,E78.5,"Hyperlipidemia, unspecified",False
+80190,50575,10254,I10,Essential (primary) hypertension,True
+80191,50741,10052,E78.5,"Hyperlipidemia, unspecified",False
+80192,50321,10270,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80193,50025,10289,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80194,50089,10183,N39.0,Urinary tract infection,True
+80195,50666,10076,M54.5   ,Low back pain,True
+80196,50359,10112,E11.9,Type 2 diabetes mellitus without complications,True
+80197,50518,10179,R51.9,"Headache, unspecified",True
+80198,50336,10167,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80199,50669,10215,R51.9,"Headache, unspecified",False
+80200,50155,10120,F41.9,"Anxiety disorder, unspecified",True
+80201,50413,10190,J45.909,"Unspecified asthma, uncomplicated",True
+80202,50671,10085,I10,Essential (primary) hypertension,True
+80203,50656,10246,I10,Essential (primary) hypertension,True
+80204,50193,10241,N39.0,Urinary tract infection,True
+80205,50571,10170,J10.1,Influenza with other respiratory manifestations,False
+80206,50769,10103,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80207,50641,10032,N39.0,Urinary tract infection,False
+80208,50100,10209,J10.1,Influenza with other respiratory manifestations,True
+80209,50544,10241,M54.5,Low back pain,True
+80210,50190,10217,M54.5,Low back pain,True
+80211,50754,10055,E78.5,"Hyperlipidemia, unspecified",True
+80212,50426,10120,J10.1,Influenza with other respiratory manifestations,True
+80213,50092,10243,J10.1,Influenza with other respiratory manifestations,False
+80214,50426,10120,M54.5,Low back pain,True
+80215,50523,10221,E11.9,Type 2 diabetes mellitus without complications,True
+80216,50646,10117,E11.9,Type 2 diabetes mellitus without complications,True
+80217,50442,10140,M54.5,Low back pain,False
+80218,50719,10093,J45.909,"Unspecified asthma, uncomplicated",False
+80219,50448,10142,I10,Essential (primary) hypertension,True
+80220,50699,10073,F41.9,"Anxiety disorder, unspecified",True
+80221,50616,10229,I10,Essential (primary) hypertension,True
+80222,50285,10073,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80223,50687,10276,J10.1,Influenza with other respiratory manifestations,False
+80224,50496,10258,I10,Essential (primary) hypertension,False
+80225,50755,10014,J45.909,"Unspecified asthma, uncomplicated",True
+80226,50111,10002,E11.9,Type 2 diabetes mellitus without complications,True
+80227,50098,10023,R51.9,"Headache, unspecified",True
+80228,50561,10242,I10,Essential (primary) hypertension,True
+80229,50312,10135,J10.1,Influenza with other respiratory manifestations,False
+80230,50223,10247,M54.5,Low back pain,False
+80231,50140,10249,E78.5,"Hyperlipidemia, unspecified",True
+80232,50240,10295,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80233,50440,10290,N39.0,Urinary tract infection,False
+80234,50720,10218,R51.9,"Headache, unspecified",True
+80235,50736,10037,J45.909,"Unspecified asthma, uncomplicated",True
+80236,50673,10004,N39.0,Urinary tract infection,False
+80237,50007,10233,F41.9,"Anxiety disorder, unspecified",True
+80238,50496,10258,J10.1,Influenza with other respiratory manifestations,True
+80239,50440,10290,N39.0,Urinary tract infection,True
+80240,50448,10142,R51.9,"Headache, unspecified",True
+80241,50770,10170,R51.9,"Headache, unspecified",False
+80242,50422,10275,R51.9,"Headache, unspecified",False
+80243,50671,10085,F41.9,"Anxiety disorder, unspecified",True
+80244,50394,10189,F41.9,"Anxiety disorder, unspecified",False
+80245,50585,10192,J45.909,"Unspecified asthma, uncomplicated",True
+80246,50631,10168,J45.909,"Unspecified asthma, uncomplicated",True
+80247,50399,10260,M54.5,Low back pain,False
+80248,50096,10130,J45.909,"Unspecified asthma, uncomplicated",True
+80249,50542,10294,E78.5,"Hyperlipidemia, unspecified",True
+80250,50721,10063,J45.909,"Unspecified asthma, uncomplicated",False
+80251,50004,10115,R51.9,"Headache, unspecified",True
+80252,50652,10033,E78.5,"Hyperlipidemia, unspecified",True
+80253,50186,10183,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80254,50221,10116,F41.9,"Anxiety disorder, unspecified",True
+80255,50549,10164,E78.5,"Hyperlipidemia, unspecified",True
+80256,50006,10071,E11.9,Type 2 diabetes mellitus without complications,False
+80257,50256,10265,N39.0,Urinary tract infection,False
+80258,50227,10072,F41.9,"Anxiety disorder, unspecified",False
+80259,50690,10155,J45.909,"Unspecified asthma, uncomplicated",True
+80260,50649,10057,I10,Essential (primary) hypertension,True
+80261,50546,10105,J10.1,Influenza with other respiratory manifestations,True
+80262,50060,10047,J10.1,Influenza with other respiratory manifestations,True
+80263,50414,10277,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80264,50106,10009,N39.0,Urinary tract infection,False
+80265,50478,10136,J45.909,"Unspecified asthma, uncomplicated",False
+80266,50671,10085,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80267,50395,10082,M54.5,Low back pain,True
+80268,50716,10107,M54.5,Low back pain,False
+80269,50618,10242,J10.1,Influenza with other respiratory manifestations,False
+80270,50538,10058,M54.5,Low back pain,True
+80271,50157,10204,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80272,50459,10062,J10.1,Influenza with other respiratory manifestations,True
+80273,50614,10056,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80274,50455,10243,E78.5,"Hyperlipidemia, unspecified",True
+80275,50132,10052,F41.9,"Anxiety disorder, unspecified",True
+80276,50345,10148,E78.5,"Hyperlipidemia, unspecified",True
+80277,50542,10294,M54.5,Low back pain,True
+80278,50434,10078,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80279,50785,10092,N39.0,Urinary tract infection,False
+80280,50762,10266,I10,Essential (primary) hypertension,False
+80281,50539,10145,J45.909,"Unspecified asthma, uncomplicated",True
+80282,50615,10251,M54.5,Low back pain,False
+80283,50438,10072,E11.9,Type 2 diabetes mellitus without complications,False
+80284,50537,10105,M54.5,Low back pain,True
+80285,50689,10190,I10,Essential (primary) hypertension,True
+80286,50565,10031,M54.5,Low back pain,True
+80287,50076,10014,M54.5,Low back pain,False
+80288,50079,10275,I10,Essential (primary) hypertension,True
+80289,50082,10285,E11.9,Type 2 diabetes mellitus without complications,False
+80290,50358,10019,R51.9,"Headache, unspecified",True
+80291,50112,10197,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80292,50139,10078,R51.9,"Headache, unspecified",False
+80293,50502,10191,M54.5,Low back pain,True
+80294,50184,10267,M54.5,Low back pain,True
+80295,50477,10032,F41.9,"Anxiety disorder, unspecified",True
+80296,50546,10105,J10.1,Influenza with other respiratory manifestations,True
+80297,50233,10272,J45.909,"Unspecified asthma, uncomplicated",False
+80298,50099,10040,M54.5,Low back pain,True
+80299,50397,10107,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80300,50717,10130,E11.9,Type 2 diabetes mellitus without complications,True
+80301,50421,10271,I10,Essential (primary) hypertension,False
+80302,50076,10014,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80303,50525,10213,J45.909,"Unspecified asthma, uncomplicated",True
+80304,50380,10080,M54.5,Low back pain,True
+80305,50244,10133,I10,Essential (primary) hypertension,True
+80306,50376,10140,E11.9,Type 2 diabetes mellitus without complications,True
+80307,50437,10254,R51.9,"Headache, unspecified",False
+80308,50674,10119,R51.9,"Headache, unspecified",True
+80309,50199,10101,M54.5,Low back pain,True
+80310,50515,10277,J45.909,"Unspecified asthma, uncomplicated",False
+80311,50739,10248,J45.909,"Unspecified asthma, uncomplicated",False
+80312,50207,10145,R51.9,"Headache, unspecified",False
+80313,50102,10167,J45.909,"Unspecified asthma, uncomplicated",False
+80314,50232,10231,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80315,50092,10243,I10,Essential (primary) hypertension,True
+80316,50027,10164,N39.0,Urinary tract infection,True
+80317,50295,10182, K21.9  ,Gastro-esophageal reflux disease without esophagitis,True
+80318,50363,10042,I10,Essential (primary) hypertension,False
+80319,50471,10283,M54.5,Low back pain,True
+80320,50762,10266,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80321,50555,10019,I10,Essential (primary) hypertension,True
+80322,50188,10129,I10,Essential (primary) hypertension,False
+80323,50563,10185,M54.5,Low back pain,False
+80324,50032,10300,J10.1,Influenza with other respiratory manifestations,False
+80325,50657,10076,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80326,50417,10196,E78.5,"Hyperlipidemia, unspecified",True
+80327,50184,10267,F41.9,"Anxiety disorder, unspecified",True
+80328,50150,10269,N39.0,Urinary tract infection,True
+80329,50574,10167,J45.909,"Unspecified asthma, uncomplicated",False
+80330,50536,10050,F41.9,"Anxiety disorder, unspecified",True
+80331,50192,10058,J10.1,Influenza with other respiratory manifestations,False
+80332,50653,10117,J10.1,Influenza with other respiratory manifestations,False
+80333,50636,10035,F41.9,"Anxiety disorder, unspecified",True
+80334,50616,10229,F41.9,"Anxiety disorder, unspecified",True
+80335,50009,10262,N39.0,Urinary tract infection,False
+80336,50662,10056,E78.5,"Hyperlipidemia, unspecified",False
+80337,50711,10218,R51.9,"Headache, unspecified",True
+80338,50790,10173,E11.9,Type 2 diabetes mellitus without complications,True
+80339,50784,10154,F41.9,"Anxiety disorder, unspecified",False
+80340,50157,10204,E11.9,Type 2 diabetes mellitus without complications,False
+80341,50053,10021,M54.5,Low back pain,True
+80342,50310,10260,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80343,50181,10202,J45.909,"Unspecified asthma, uncomplicated",True
+80344,50429,10011,J10.1,Influenza with other respiratory manifestations,False
+80345,50655,10158,M54.5,Low back pain,False
+80346,50322,10099,R51.9,"Headache, unspecified",True
+80347,50297,10249,E78.5,"Hyperlipidemia, unspecified",False
+80348,50217,10066,M54.5,Low back pain,True
+80349,50772,10213,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80350,50200,10281,J45.909,"Unspecified asthma, uncomplicated",False
+80351,50410,10005,J10.1  ,Influenza with other respiratory manifestations,False
+80352,50148,10244,I10,Essential (primary) hypertension,False
+80353,50300,10123,J45.909,"Unspecified asthma, uncomplicated",True
+80354,50014,10021,R51.9,"Headache, unspecified",True
+80355,50718,10271,J10.1,Influenza with other respiratory manifestations,False
+80356,50350,10280,J45.909,"Unspecified asthma, uncomplicated",True
+80357,50329,10035,N39.0,Urinary tract infection,True
+80358,50024,10082,I10,Essential (primary) hypertension,True
+80359,50390,10257,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80360,50302,10011,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80361,50375,10250,R51.9,"Headache, unspecified",False
+80362,50062,10234,M54.5,Low back pain,True
+80363,50261,10279,J10.1,Influenza with other respiratory manifestations,False
+80364,50017,10039,M54.5,Low back pain,False
+80365,50581,10258,N39.0,Urinary tract infection,True
+80366,50742,10062,F41.9,"Anxiety disorder, unspecified",True
+80367,50133,10121,J10.1,Influenza with other respiratory manifestations,False
+80368,50515,10277,J45.909,"Unspecified asthma, uncomplicated",True
+80369,50594,10285,n39.0 ,Urinary tract infection,True
+80370,50643,10230,R51.9,"Headache, unspecified",True
+80371,50536,10050,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80372,50169,10280,R51.9,"Headache, unspecified",True
+80373,50378,10294,I10,Essential (primary) hypertension,True
+80374,50376,10140,J45.909,"Unspecified asthma, uncomplicated",False
+80375,50791,10029,E11.9,Type 2 diabetes mellitus without complications,False
+80376,50451,10035,E11.9,Type 2 diabetes mellitus without complications,True
+80377,50604,10022,I10,Essential (primary) hypertension,True
+80378,50701,10037,E11.9,Type 2 diabetes mellitus without complications,False
+80379,50633,10135,J10.1,Influenza with other respiratory manifestations,False
+80380,50478,10136,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80381,50119,10136,J10.1,Influenza with other respiratory manifestations,False
+80382,50113,10047,I10,Essential (primary) hypertension,True
+80383,50704,10208,J45.909,"Unspecified asthma, uncomplicated",False
+80384,50571,10170,M54.5,Low back pain,True
+80385,50167,10087,M54.5,Low back pain,True
+80386,50749,10106,R51.9,"Headache, unspecified",True
+80387,50721,10063,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80388,50088,10052,J45.909,"Unspecified asthma, uncomplicated",False
+80389,50430,10145,F41.9,"Anxiety disorder, unspecified",True
+80390,50422,10275,F41.9    ,"Anxiety disorder, unspecified",True
+80391,50076,10014,F41.9,"Anxiety disorder, unspecified",False
+80392,50361,10218,J10.1,Influenza with other respiratory manifestations,False
+80393,50330,10136,E78.5,"Hyperlipidemia, unspecified",False
+80394,50024,10082,R51.9,"Headache, unspecified",True
+80395,50760,10105,f41.9 ,"Anxiety disorder, unspecified",False
+80396,50297,10249,I10,Essential (primary) hypertension,False
+80397,50061,10282,I10,Essential (primary) hypertension,True
+80398,50424,10101,E11.9,Type 2 diabetes mellitus without complications,False
+80399,50552,10046,M54.5,Low back pain,True
+80400,50745,10015,N39.0,Urinary tract infection,True
+80401,50051,10068,J10.1,Influenza with other respiratory manifestations,True
+80402,50467,10106,M54.5,Low back pain,True
+80403,50112,10197,E78.5,"Hyperlipidemia, unspecified",True
+80404,50380,10080,M54.5,Low back pain,False
+80405,50750,10270,N39.0,Urinary tract infection,False
+80406,50151,10288,M54.5,Low back pain,False
+80407,50731,10173,R51.9,"Headache, unspecified",False
+80408,50165,10078,M54.5,Low back pain,True
+80409,50257,10066,N39.0,Urinary tract infection,True
+80410,50787,10237,R51.9,"Headache, unspecified",False
+80411,50007,10233,R51.9,"Headache, unspecified",True
+80412,50206,10217,J10.1,Influenza with other respiratory manifestations,True
+80413,50484,10088,E11.9,Type 2 diabetes mellitus without complications,False
+80414,50423,10237,J45.909,"Unspecified asthma, uncomplicated",False
+80415,50404,10273,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80416,50250,10170,J10.1,Influenza with other respiratory manifestations,False
+80417,50185,10252,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80418,50726,10118,J45.909,"Unspecified asthma, uncomplicated",False
+80419,50699,10073,E11.9,Type 2 diabetes mellitus without complications,True
+80420,50237,10174,j45.909,"Unspecified asthma, uncomplicated",True
+80421,50046,10219,N39.0,Urinary tract infection,True
+80422,50392,10271,R51.9,"Headache, unspecified",True
+80423,50427,10044,R51.9,"Headache, unspecified",False
+80424,50094,10076,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80425,50333,10196,I10,Essential (primary) hypertension,True
+80426,50168,10228,J45.909,"Unspecified asthma, uncomplicated",False
+80427,50011,10253,R51.9,"Headache, unspecified",True
+80428,50687,10276,E11.9,Type 2 diabetes mellitus without complications,False
+80429,50791,10029,J10.1,Influenza with other respiratory manifestations,True
+80430,50384,10171,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80431,50306,10070,M54.5,Low back pain,True
+80432,50780,10200,J45.909,"Unspecified asthma, uncomplicated",False
+80433,50369,10101,E78.5,"Hyperlipidemia, unspecified",False
+80434,50090,10174,N39.0,Urinary tract infection,False
+80435,50601,10019,J10.1,Influenza with other respiratory manifestations,False
+80436,50211,10030,R51.9,"Headache, unspecified",False
+80437,50683,10280,M54.5,Low back pain,True
+80438,50769,10103,J45.909,"Unspecified asthma, uncomplicated",True
+80439,50617,10139,J10.1,Influenza with other respiratory manifestations,True
+80440,50761,10044,J45.909,"Unspecified asthma, uncomplicated",True
+80441,50171,10061,R51.9,"Headache, unspecified",False
+80442,50390,10257,M54.5,Low back pain,True
+80443,50442,10140,E11.9,Type 2 diabetes mellitus without complications,False
+80444,50641,10032,J10.1,Influenza with other respiratory manifestations,True
+80445,50755,10014,I10,Essential (primary) hypertension,False
+80446,50194,10251,N39.0,Urinary tract infection,False
+80447,50225,10162,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80448,50707,10011,J45.909,"Unspecified asthma, uncomplicated",False
+80449,50339,10072,E11.9,Type 2 diabetes mellitus without complications,True
+80450,50390,10257,E11.9,Type 2 diabetes mellitus without complications,False
+80451,50570,10079,E11.9,Type 2 diabetes mellitus without complications,True
+80452,50292,10194,M54.5,Low back pain,False
+80453,50492,10259,M54.5,Low back pain,True
+80454,50619,10103,E11.9,Type 2 diabetes mellitus without complications,False
+80455,50442,10140,R51.9,"Headache, unspecified",True
+80456,50315,10296,M54.5,Low back pain,False
+80457,50584,10063,F41.9,"Anxiety disorder, unspecified",False
+80458,50318,10217,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80459,50459,10062,J10.1,Influenza with other respiratory manifestations,True
+80460,50577,10153,I10,Essential (primary) hypertension,True
+80461,50679,10135,J10.1,Influenza with other respiratory manifestations,False
+80462,50445,10274,M54.5,Low back pain,True
+80463,50014,10021,N39.0,Urinary tract infection,True
+80464,50398,10011,J45.909,"Unspecified asthma, uncomplicated",True
+80465,50661,10168,N39.0,Urinary tract infection,True
+80466,50778,10269,E11.9,Type 2 diabetes mellitus without complications,True
+80467,50430,10145,R51.9,"Headache, unspecified",False
+80468,50446,10009,J45.909,"Unspecified asthma, uncomplicated",True
+80469,50127,10173,E11.9,Type 2 diabetes mellitus without complications,True
+80470,50634,10284,I10,Essential (primary) hypertension,True
+80471,50073,10146,M54.5,Low back pain,False
+80472,50375,10250,N39.0,Urinary tract infection,True
+80473,50349,10296,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80474,50326,10257,J45.909,"Unspecified asthma, uncomplicated",False
+80475,50575,10254,M54.5,Low back pain,False
+80476,50462,10011,E11.9,Type 2 diabetes mellitus without complications,False
+80477,50800,10235,E78.5,"Hyperlipidemia, unspecified",True
+80478,50013,10282,M54.5,Low back pain,True
+80479,50341,10271,N39.0,Urinary tract infection,True
+80480,50535,10166,J10.1  ,Influenza with other respiratory manifestations,False
+80481,50563,10185,R51.9,"Headache, unspecified",True
+80482,50789,10261,M54.5,Low back pain,True
+80483,50518,10179,E11.9,Type 2 diabetes mellitus without complications,True
+80484,50679,10135,N39.0,Urinary tract infection,False
+80485,50254,10207,M54.5,Low back pain,True
+80486,50080,10085,J10.1,Influenza with other respiratory manifestations,False
+80487,50572,10048,N39.0,Urinary tract infection,False
+80488,50087,10231,E11.9,Type 2 diabetes mellitus without complications,True
+80489,50257,10066,E11.9,Type 2 diabetes mellitus without complications,False
+80490,50707,10011,E11.9,Type 2 diabetes mellitus without complications,True
+80491,50127,10173,M54.5,Low back pain,True
+80492,50018,10056,M54.5,Low back pain,False
+80493,50779,10147,J10.1,Influenza with other respiratory manifestations,True
+80494,50143,10195,E11.9,Type 2 diabetes mellitus without complications,False
+80495,50379,10136,J10.1,Influenza with other respiratory manifestations,False
+80496,50225,10162,J45.909,"Unspecified asthma, uncomplicated",True
+80497,50669,10215,R51.9,"Headache, unspecified",True
+80498,50664,10265,E78.5,"Hyperlipidemia, unspecified",True
+80499,50504,10231,E11.9,Type 2 diabetes mellitus without complications,True
+80500,50145,10070,E78.5,"Hyperlipidemia, unspecified",True
+80501,50256,10265,J10.1,Influenza with other respiratory manifestations,False
+80502,50113,10047,N39.0,Urinary tract infection,True
+80503,50286,10061,J45.909,"Unspecified asthma, uncomplicated",False
+80504,50655,10158,N39.0,Urinary tract infection,True
+80505,50009,10262,J45.909,"Unspecified asthma, uncomplicated",True
+80506,50517,10167,M54.5,Low back pain,True
+80507,50475,10063,I10,Essential (primary) hypertension,False
+80508,50460,10246,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80509,50658,10238,I10,Essential (primary) hypertension,False
+80510,50124,10018,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80511,50008,10002,J45.909,"Unspecified asthma, uncomplicated",False
+80512,50358,10019,J10.1,Influenza with other respiratory manifestations,True
+80513,50254,10207,E11.9,Type 2 diabetes mellitus without complications,False
+80514,50629,10109,J10.1,Influenza with other respiratory manifestations,False
+80515,50069,10155,J45.909,"Unspecified asthma, uncomplicated",False
+80516,50291,10255,F41.9,"Anxiety disorder, unspecified",False
+80517,50394,10189,J10.1,Influenza with other respiratory manifestations,True
+80518,50027,10164,F41.9,"Anxiety disorder, unspecified",True
+80519,50414,10277,N39.0,Urinary tract infection,False
+80520,50796,10085,J10.1,Influenza with other respiratory manifestations,True
+80521,50319,10003,J10.1,Influenza with other respiratory manifestations,True
+80522,50280,10288,r51.9  ,"Headache, unspecified",True
+80523,50334,10292,E11.9,Type 2 diabetes mellitus without complications,True
+80524,50623,10166,J45.909,"Unspecified asthma, uncomplicated",True
+80525,50006,10071,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80526,50213,10141,J10.1,Influenza with other respiratory manifestations,False
+80527,50434,10078,R51.9,"Headache, unspecified",True
+80528,50681,10176,I10,Essential (primary) hypertension,True
+80529,50024,10082,J10.1,Influenza with other respiratory manifestations,True
+80530,50365,10007,E11.9,Type 2 diabetes mellitus without complications,False
+80531,50125,10216,I10,Essential (primary) hypertension,False
+80532,50581,10258,J10.1,Influenza with other respiratory manifestations,True
+80533,50425,10205,m54.5,Low back pain,False
+80534,50471,10283,I10,Essential (primary) hypertension,True
+80535,50564,10158,J10.1,Influenza with other respiratory manifestations,True
+80536,50609,10282,N39.0,Urinary tract infection,True
+80537,50380,10080,J10.1,Influenza with other respiratory manifestations,True
+80538,50429,10011,E11.9,Type 2 diabetes mellitus without complications,True
+80539,50037,10152,J10.1,Influenza with other respiratory manifestations,True
+80540,50749,10106,J45.909,"Unspecified asthma, uncomplicated",True
+80541,50593,10205,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80542,50454,10228,M54.5,Low back pain,False
+80543,50287,10171,J10.1,Influenza with other respiratory manifestations,False
+80544,50132,10052,N39.0,Urinary tract infection,True
+80545,50088,10052,J45.909,"Unspecified asthma, uncomplicated",True
+80546,50743,10187,F41.9,"Anxiety disorder, unspecified",True
+80547,50462,10011,I10,Essential (primary) hypertension,False
+80548,50623,10166,F41.9,"Anxiety disorder, unspecified",True
+80549,50787,10237,E11.9,Type 2 diabetes mellitus without complications,True
+80550,50313,10171,N39.0,Urinary tract infection,False
+80551,50464,10221,J45.909,"Unspecified asthma, uncomplicated",False
+80552,50161,10018,M54.5,Low back pain,False
+80553,50434,10078,J10.1,Influenza with other respiratory manifestations,True
+80554,50349,10296,N39.0,Urinary tract infection,False
+80555,50259,10031,I10,Essential (primary) hypertension,True
+80556,50668,10117,J45.909,"Unspecified asthma, uncomplicated",False
+80557,50047,10253,J45.909,"Unspecified asthma, uncomplicated",False
+80558,50416,10173,I10,Essential (primary) hypertension,False
+80559,50480,10020,J45.909,"Unspecified asthma, uncomplicated",True
+80560,50390,10257,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80561,50511,10015,R51.9,"Headache, unspecified",True
+80562,50514,10268,R51.9,"Headache, unspecified",True
+80563,50616,10229,E78.5,"Hyperlipidemia, unspecified",False
+80564,50680,10056,j10.1 ,Influenza with other respiratory manifestations,True
+80565,50625,10171,E11.9,Type 2 diabetes mellitus without complications,True
+80566,50241,10147,J10.1,Influenza with other respiratory manifestations,False
+80567,50488,10188,J10.1,Influenza with other respiratory manifestations,False
+80568,50270,10005,J10.1,Influenza with other respiratory manifestations,True
+80569,50017,10039,J45.909,"Unspecified asthma, uncomplicated",True
+80570,50614,10056,R51.9,"Headache, unspecified",True
+80571,50264,10054,N39.0,Urinary tract infection,False
+80572,50230,10100,M54.5,Low back pain,False
+80573,50729,10020,R51.9,"Headache, unspecified",True
+80574,50009,10262,R51.9,"Headache, unspecified",True
+80575,50508,10093,E78.5,"Hyperlipidemia, unspecified",False
+80576,50099,10040,J45.909,"Unspecified asthma, uncomplicated",False
+80577,50154,10286,M54.5,Low back pain,False
+80578,50491,10077,J45.909,"Unspecified asthma, uncomplicated",False
+80579,50577,10153,J45.909,"Unspecified asthma, uncomplicated",False
+80580,50093,10018,M54.5,Low back pain,True
+80581,50156,10054,F41.9,"Anxiety disorder, unspecified",False
+80582,50730,10056,N39.0,Urinary tract infection,True
+80583,50213,10141,E78.5,"Hyperlipidemia, unspecified",True
+80584,50704,10208,M54.5,Low back pain,False
+80585,50287,10171,f41.9  ,"Anxiety disorder, unspecified",True
+80586,50300,10123,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80587,50760,10105,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80588,50166,10217,E78.5,"Hyperlipidemia, unspecified",True
+80589,50026,10165,E11.9,Type 2 diabetes mellitus without complications,True
+80590,50121,10298,E11.9,Type 2 diabetes mellitus without complications,False
+80591,50421,10271,F41.9,"Anxiety disorder, unspecified",False
+80592,50048,10214,E11.9,Type 2 diabetes mellitus without complications,True
+80593,50279,10014,F41.9,"Anxiety disorder, unspecified",True
+80594,50427,10044,J45.909,"Unspecified asthma, uncomplicated",True
+80595,50001,10131,E11.9,Type 2 diabetes mellitus without complications,True
+80596,50442,10140,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80597,50002,10186,R51.9,"Headache, unspecified",True
+80598,50776,10043,R51.9,"Headache, unspecified",False
+80599,50026,10165,E78.5,"Hyperlipidemia, unspecified",True
+80600,50202,10149,R51.9,"Headache, unspecified",True
+80601,50454,10228,J45.909,"Unspecified asthma, uncomplicated",False
+80602,50637,10268,M54.5,Low back pain,True
+80603,50454,10228,R51.9,"Headache, unspecified",True
+80604,50783,10246,N39.0,Urinary tract infection,True
+80605,50727,10191,J10.1,Influenza with other respiratory manifestations,False
+80606,50344,10151,F41.9,"Anxiety disorder, unspecified",True
+80607,50615,10251,R51.9,"Headache, unspecified",False
+80608,50353,10198,E11.9,Type 2 diabetes mellitus without complications,True
+80609,50719,10093,J45.909,"Unspecified asthma, uncomplicated",False
+80610,50171,10061,J10.1,Influenza with other respiratory manifestations,True
+80611,50452,10007,N39.0,Urinary tract infection,False
+80612,50682,10020,M54.5,Low back pain,False
+80613,50059,10182,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80614,50252,10193,E11.9,Type 2 diabetes mellitus without complications,False
+80615,50447,10082,E11.9,Type 2 diabetes mellitus without complications,False
+80616,50151,10288,I10,Essential (primary) hypertension,True
+80617,50123,10170,I10 ,Essential (primary) hypertension,True
+80618,50063,10136,J10.1,Influenza with other respiratory manifestations,True
+80619,50133,10121,R51.9,"Headache, unspecified",False
+80620,50063,10136,J45.909,"Unspecified asthma, uncomplicated",True
+80621,50169,10280,J10.1,Influenza with other respiratory manifestations,True
+80622,50509,10172,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80623,50482,10081,E78.5,"Hyperlipidemia, unspecified",True
+80624,50574,10167,R51.9,"Headache, unspecified",False
+80625,50085,10043,J10.1,Influenza with other respiratory manifestations,True
+80626,50236,10216,I10,Essential (primary) hypertension,True
+80627,50562,10044,F41.9,"Anxiety disorder, unspecified",False
+80628,50380,10080,R51.9,"Headache, unspecified",True
+80629,50476,10063,E78.5,"Hyperlipidemia, unspecified",False
+80630,50520,10140,J10.1,Influenza with other respiratory manifestations,False
+80631,50281,10111,E11.9,Type 2 diabetes mellitus without complications,False
+80632,50256,10265,J45.909,"Unspecified asthma, uncomplicated",True
+80633,50518,10179,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80634,50328,10221,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80635,50214,10295,E11.9,Type 2 diabetes mellitus without complications,True
+80636,50312,10135,E78.5,"Hyperlipidemia, unspecified",True
+80637,50643,10230,J45.909,"Unspecified asthma, uncomplicated",False
+80638,50480,10020,J10.1,Influenza with other respiratory manifestations,True
+80639,50319,10003,J10.1,Influenza with other respiratory manifestations,True
+80640,50074,10034,E78.5,"Hyperlipidemia, unspecified",True
+80641,50415,10078,F41.9,"Anxiety disorder, unspecified",False
+80642,50568,10108,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80643,50273,10124,F41.9,"Anxiety disorder, unspecified",True
+80644,50735,10122,J45.909,"Unspecified asthma, uncomplicated",True
+80645,50020,10186, N39.0 ,Urinary tract infection,True
+80646,50187,10069,J45.909,"Unspecified asthma, uncomplicated",True
+80647,50284,10210,E78.5,"Hyperlipidemia, unspecified",False
+80648,50626,10120,J10.1,Influenza with other respiratory manifestations,False
+80649,50630,10044,F41.9,"Anxiety disorder, unspecified",True
+80650,50719,10093,J10.1,Influenza with other respiratory manifestations,False
+80651,50632,10004,J10.1,Influenza with other respiratory manifestations,False
+80652,50106,10009,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80653,50231,10113,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80654,50232,10231,F41.9,"Anxiety disorder, unspecified",False
+80655,50098,10023,E78.5,"Hyperlipidemia, unspecified",True
+80656,50180,10290,k21.9    ,Gastro-esophageal reflux disease without esophagitis,False
+80657,50592,10088,E78.5,"Hyperlipidemia, unspecified",False
+80658,50143,10195,N39.0,Urinary tract infection,True
+80659,50081,10167,F41.9,"Anxiety disorder, unspecified",False
+80660,50221,10116,R51.9,"Headache, unspecified",False
+80661,50432,10219,R51.9,"Headache, unspecified",True
+80662,50469,10281,E78.5,"Hyperlipidemia, unspecified",False
+80663,50463,10159,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80664,50604,10022,I10,Essential (primary) hypertension,False
+80665,50429,10011,N39.0,Urinary tract infection,True
+80666,50280,10288,J10.1,Influenza with other respiratory manifestations,False
+80667,50697,10067,J10.1,Influenza with other respiratory manifestations,False
+80668,50413,10190,E78.5,"Hyperlipidemia, unspecified",True
+80669,50035,10109,E78.5,"Hyperlipidemia, unspecified",True
+80670,50644,10042,M54.5,Low back pain,True
+80671,50110,10040,I10,Essential (primary) hypertension,True
+80672,50238,10028,J45.909,"Unspecified asthma, uncomplicated",True
+80673,50457,10201,I10,Essential (primary) hypertension,False
+80674,50558,10067,R51.9,"Headache, unspecified",True
+80675,50497,10256,J10.1,Influenza with other respiratory manifestations,False
+80676,50391,10083,J45.909,"Unspecified asthma, uncomplicated",False
+80677,50768,10179,I10,Essential (primary) hypertension,True
+80678,50781,10006,N39.0,Urinary tract infection,True
+80679,50598,10052,F41.9,"Anxiety disorder, unspecified",False
+80680,50756,10073,E11.9,Type 2 diabetes mellitus without complications,True
+80681,50620,10167,E78.5,"Hyperlipidemia, unspecified",False
+80682,50784,10154,J10.1,Influenza with other respiratory manifestations,False
+80683,50230,10100,E78.5,"Hyperlipidemia, unspecified",False
+80684,50291,10255,E11.9,Type 2 diabetes mellitus without complications,False
+80685,50315,10296,J10.1,Influenza with other respiratory manifestations,False
+80686,50664,10265,k21.9,Gastro-esophageal reflux disease without esophagitis,True
+80687,50755,10014,E11.9,Type 2 diabetes mellitus without complications,True
+80688,50126,10147,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80689,50733,10294,R51.9,"Headache, unspecified",False
+80690,50260,10190,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80691,50206,10217,R51.9,"Headache, unspecified",True
+80692,50463,10159,M54.5,Low back pain,False
+80693,50283,10217,I10,Essential (primary) hypertension,False
+80694,50129,10295,E11.9,Type 2 diabetes mellitus without complications,True
+80695,50187,10069,M54.5,Low back pain,True
+80696,50670,10125,M54.5,Low back pain,True
+80697,50326,10257,J10.1,Influenza with other respiratory manifestations,True
+80698,50770,10170,I10,Essential (primary) hypertension,True
+80699,50593,10205,E11.9,Type 2 diabetes mellitus without complications,True
+80700,50426,10120,M54.5,Low back pain,True
+80701,50608,10205,I10,Essential (primary) hypertension,True
+80702,50539,10145,E78.5,"Hyperlipidemia, unspecified",True
+80703,50608,10205,R51.9,"Headache, unspecified",True
+80704,50569,10227,J10.1,Influenza with other respiratory manifestations,True
+80705,50170,10204,E11.9,Type 2 diabetes mellitus without complications,False
+80706,50622,10029,E78.5,"Hyperlipidemia, unspecified",False
+80707,50006,10071,R51.9,"Headache, unspecified",True
+80708,50291,10255,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80709,50386,10060,F41.9,"Anxiety disorder, unspecified",False
+80710,50302,10011,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80711,50352,10240,N39.0,Urinary tract infection,False
+80712,50732,10018,E11.9,Type 2 diabetes mellitus without complications,True
+80713,50201,10119,R51.9,"Headache, unspecified",True
+80714,50783,10246,J45.909,"Unspecified asthma, uncomplicated",True
+80715,50468,10279,N39.0,Urinary tract infection,False
+80716,50032,10300,E78.5,"Hyperlipidemia, unspecified",False
+80717,50239,10011,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80718,50001,10131,R51.9,"Headache, unspecified",False
+80719,50223,10247,R51.9,"Headache, unspecified",False
+80720,50205,10241,J45.909,"Unspecified asthma, uncomplicated",True
+80721,50376,10140,M54.5,Low back pain,False
+80722,50612,10023,J45.909,"Unspecified asthma, uncomplicated",True
+80723,50714,10044,E11.9,Type 2 diabetes mellitus without complications,False
+80724,50096,10130,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80725,50558,10067,J45.909,"Unspecified asthma, uncomplicated",False
+80726,50013,10282,J10.1,Influenza with other respiratory manifestations,True
+80727,50377,10029,M54.5,Low back pain,True
+80728,50490,10091,M54.5,Low back pain,True
+80729,50291,10255,J10.1,Influenza with other respiratory manifestations,True
+80730,50449,10142,M54.5,Low back pain,False
+80731,50698,10278,J10.1,Influenza with other respiratory manifestations,False
+80732,50360,10159,E11.9,Type 2 diabetes mellitus without complications,True
+80733,50026,10165,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80734,50502,10191,J10.1,Influenza with other respiratory manifestations,False
+80735,50083,10120,R51.9,"Headache, unspecified",True
+80736,50204,10292,M54.5,Low back pain,False
+80737,50509,10172,E78.5,"Hyperlipidemia, unspecified",True
+80738,50216,10090,R51.9,"Headache, unspecified",True
+80739,50382,10236,E78.5,"Hyperlipidemia, unspecified",True
+80740,50779,10147,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80741,50201,10119,E78.5,"Hyperlipidemia, unspecified",True
+80742,50448,10142,I10,Essential (primary) hypertension,True
+80743,50460,10246,J10.1,Influenza with other respiratory manifestations,True
+80744,50128,10231,R51.9,"Headache, unspecified",False
+80745,50009,10262,N39.0,Urinary tract infection,False
+80746,50717,10130,M54.5,Low back pain,False
+80747,50209,10095,R51.9,"Headache, unspecified",True
+80748,50403,10119,I10,Essential (primary) hypertension,True
+80749,50724,10158,M54.5,Low back pain,True
+80750,50254,10207,N39.0,Urinary tract infection,True
+80751,50205,10241,E78.5,"Hyperlipidemia, unspecified",False
+80752,50664,10265,I10,Essential (primary) hypertension,False
+80753,50621,10170,E78.5,"Hyperlipidemia, unspecified",True
+80754,50798,10217,E78.5,"Hyperlipidemia, unspecified",True
+80755,50036,10154,E78.5,"Hyperlipidemia, unspecified",True
+80756,50712,10167,E11.9,Type 2 diabetes mellitus without complications,False
+80757,50298,10292,I10,Essential (primary) hypertension,True
+80758,50282,10147,F41.9,"Anxiety disorder, unspecified",True
+80759,50093,10018,E78.5,"Hyperlipidemia, unspecified",True
+80760,50265,10205,R51.9,"Headache, unspecified",False
+80761,50483,10196,J45.909 ,"Unspecified asthma, uncomplicated",True
+80762,50165,10078,J45.909,"Unspecified asthma, uncomplicated",True
+80763,50703,10125,R51.9,"Headache, unspecified",False
+80764,50493,10194,F41.9,"Anxiety disorder, unspecified",True
+80765,50094,10076,F41.9,"Anxiety disorder, unspecified",True
+80766,50085,10043,J45.909,"Unspecified asthma, uncomplicated",False
+80767,50502,10191,J45.909,"Unspecified asthma, uncomplicated",True
+80768,50699,10073,j45.909  ,"Unspecified asthma, uncomplicated",True
+80769,50059,10182,J10.1,Influenza with other respiratory manifestations,True
+80770,50055,10205,F41.9,"Anxiety disorder, unspecified",True
+80771,50800,10235,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80772,50048,10214,R51.9,"Headache, unspecified",True
+80773,50175,10108,M54.5,Low back pain,True
+80774,50345,10148,E11.9,Type 2 diabetes mellitus without complications,False
+80775,50496,10258,M54.5,Low back pain,False
+80776,50618,10242,J45.909,"Unspecified asthma, uncomplicated",False
+80777,50153,10242,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80778,50471,10283,F41.9,"Anxiety disorder, unspecified",False
+80779,50080,10085,E11.9,Type 2 diabetes mellitus without complications,False
+80780,50398,10011,E11.9,Type 2 diabetes mellitus without complications,True
+80781,50444,10104,E11.9,Type 2 diabetes mellitus without complications,True
+80782,50410,10005,I10,Essential (primary) hypertension,False
+80783,50594,10285,J10.1,Influenza with other respiratory manifestations,False
+80784,50633,10135,N39.0,Urinary tract infection,False
+80785,50283,10217,M54.5,Low back pain,True
+80786,50149,10154,J10.1,Influenza with other respiratory manifestations,False
+80787,50675,10203,E78.5,"Hyperlipidemia, unspecified",True
+80788,50036,10154,R51.9,"Headache, unspecified",True
+80789,50626,10120,J45.909,"Unspecified asthma, uncomplicated",True
+80790,50216,10090,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80791,50785,10092,I10,Essential (primary) hypertension,True
+80792,50111,10002,M54.5,Low back pain,True
+80793,50260,10190,F41.9,"Anxiety disorder, unspecified",True
+80794,50356,10032,E78.5,"Hyperlipidemia, unspecified",False
+80795,50325,10236,R51.9,"Headache, unspecified",False
+80796,50219,10276,R51.9,"Headache, unspecified",True
+80797,50023,10246,J10.1,Influenza with other respiratory manifestations,True
+80798,50474,10248,F41.9,"Anxiety disorder, unspecified",True
+80799,50755,10014,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80800,50667,10280,E11.9,Type 2 diabetes mellitus without complications,True
+80801,50168,10228,E11.9,Type 2 diabetes mellitus without complications,True
+80802,50673,10004,F41.9,"Anxiety disorder, unspecified",True
+80803,50261,10279,R51.9,"Headache, unspecified",True
+80804,50014,10021,N39.0,Urinary tract infection,False
+80805,50141,10083,E78.5,"Hyperlipidemia, unspecified",True
+80806,50490,10091,E78.5,"Hyperlipidemia, unspecified",False
+80807,50285,10073,R51.9,"Headache, unspecified",True
+80808,50388,10064,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80809,50245,10204,E11.9,Type 2 diabetes mellitus without complications,True
+80810,50106,10009,I10,Essential (primary) hypertension,True
+80811,50353,10198,E11.9,Type 2 diabetes mellitus without complications,False
+80812,50073,10146,F41.9,"Anxiety disorder, unspecified",False
+80813,50122,10187,I10,Essential (primary) hypertension,True
+80814,50104,10177,M54.5,Low back pain,False
+80815,50068,10032,M54.5,Low back pain,False
+80816,50200,10281,E11.9,Type 2 diabetes mellitus without complications,False
+80817,50523,10221,J10.1,Influenza with other respiratory manifestations,True
+80818,50025,10289,E78.5,"Hyperlipidemia, unspecified",True
+80819,50637,10268,F41.9,"Anxiety disorder, unspecified",True
+80820,50535,10166,F41.9,"Anxiety disorder, unspecified",True
+80821,50683,10280,N39.0,Urinary tract infection,True
+80822,50171,10061,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80823,50618,10242,M54.5,Low back pain,False
+80824,50261,10279,E78.5,"Hyperlipidemia, unspecified",True
+80825,50374,10022,E78.5,"Hyperlipidemia, unspecified",False
+80826,50323,10244,J45.909,"Unspecified asthma, uncomplicated",False
+80827,50167,10087,E78.5,"Hyperlipidemia, unspecified",False
+80828,50234,10192,J45.909,"Unspecified asthma, uncomplicated",True
+80829,50482,10081,R51.9,"Headache, unspecified",True
+80830,50592,10088,F41.9,"Anxiety disorder, unspecified",False
+80831,50187,10069,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80832,50578,10264,E78.5,"Hyperlipidemia, unspecified",False
+80833,50342,10118,M54.5,Low back pain,True
+80834,50214,10295,J45.909,"Unspecified asthma, uncomplicated",False
+80835,50270,10005,N39.0,Urinary tract infection,True
+80836,50519,10037,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80837,50170,10204,j45.909 ,"Unspecified asthma, uncomplicated",True
+80838,50429,10011,F41.9,"Anxiety disorder, unspecified",False
+80839,50330,10136,N39.0,Urinary tract infection,True
+80840,50661,10168,E78.5,"Hyperlipidemia, unspecified",True
+80841,50132,10052,J10.1,Influenza with other respiratory manifestations,False
+80842,50591,10119,R51.9,"Headache, unspecified",True
+80843,50758,10185,J10.1,Influenza with other respiratory manifestations,True
+80844,50406,10100,E78.5,"Hyperlipidemia, unspecified",False
+80845,50120,10255,J45.909,"Unspecified asthma, uncomplicated",False
+80846,50732,10018,N39.0,Urinary tract infection,True
+80847,50409,10021,N39.0,Urinary tract infection,True
+80848,50433,10134,R51.9,"Headache, unspecified",False
+80849,50286,10061,F41.9,"Anxiety disorder, unspecified",True
+80850,50290,10115,J10.1,Influenza with other respiratory manifestations,True
+80851,50418,10145,I10,Essential (primary) hypertension,False
+80852,50763,10008,R51.9,"Headache, unspecified",False
+80853,50057,10269,R51.9,"Headache, unspecified",True
+80854,50486,10160,F41.9,"Anxiety disorder, unspecified",False
+80855,50547,10240,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80856,50429,10011,J10.1,Influenza with other respiratory manifestations,False
+80857,50078,10098,J45.909,"Unspecified asthma, uncomplicated",True
+80858,50519,10037,E11.9,Type 2 diabetes mellitus without complications,True
+80859,50514,10268,E11.9,Type 2 diabetes mellitus without complications,True
+80860,50740,10015,E11.9,Type 2 diabetes mellitus without complications,False
+80861,50167,10087,N39.0,Urinary tract infection,True
+80862,50673,10004,E78.5,"Hyperlipidemia, unspecified",True
+80863,50445,10274,J45.909,"Unspecified asthma, uncomplicated",True
+80864,50090,10174,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80865,50120,10255,E78.5,"Hyperlipidemia, unspecified",False
+80866,50788,10294,N39.0,Urinary tract infection,True
+80867,50577,10153,J45.909,"Unspecified asthma, uncomplicated",True
+80868,50087,10231,F41.9,"Anxiety disorder, unspecified",False
+80869,50050,10002,E78.5,"Hyperlipidemia, unspecified",True
+80870,50147,10165,I10,Essential (primary) hypertension,True
+80871,50715,10019,N39.0,Urinary tract infection,True
+80872,50270,10005,J45.909,"Unspecified asthma, uncomplicated",True
+80873,50799,10052,E78.5,"Hyperlipidemia, unspecified",False
+80874,50603,10071,I10,Essential (primary) hypertension,True
+80875,50392,10271,R51.9,"Headache, unspecified",True
+80876,50421,10271,M54.5,Low back pain,False
+80877,50447,10082,F41.9,"Anxiety disorder, unspecified",False
+80878,50781,10006,J10.1,Influenza with other respiratory manifestations,True
+80879,50697,10067,R51.9,"Headache, unspecified",True
+80880,50341,10271,F41.9,"Anxiety disorder, unspecified",False
+80881,50032,10300,J10.1,Influenza with other respiratory manifestations,False
+80882,50402,10110,F41.9,"Anxiety disorder, unspecified",False
+80883,50298,10292,E11.9,Type 2 diabetes mellitus without complications,False
+80884,50250,10170,M54.5,Low back pain,True
+80885,50485,10187,F41.9,"Anxiety disorder, unspecified",True
+80886,50273,10124,J45.909,"Unspecified asthma, uncomplicated",True
+80887,50471,10283,J45.909,"Unspecified asthma, uncomplicated",True
+80888,50488,10188,N39.0,Urinary tract infection,True
+80889,50689,10190,N39.0,Urinary tract infection,False
+80890,50168,10228,F41.9,"Anxiety disorder, unspecified",False
+80891,50475,10063,M54.5,Low back pain,True
+80892,50269,10041,R51.9,"Headache, unspecified",True
+80893,50656,10246,I10,Essential (primary) hypertension,False
+80894,50307,10294,F41.9,"Anxiety disorder, unspecified",True
+80895,50632,10004,I10,Essential (primary) hypertension,True
+80896,50788,10294,N39.0,Urinary tract infection,False
+80897,50045,10272,F41.9,"Anxiety disorder, unspecified",False
+80898,50126,10147,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80899,50460,10246,E11.9,Type 2 diabetes mellitus without complications,False
+80900,50122,10187,N39.0,Urinary tract infection,True
+80901,50528,10001,M54.5,Low back pain,True
+80902,50315,10296,E78.5,"Hyperlipidemia, unspecified",True
+80903,50553,10278,M54.5,Low back pain,True
+80904,50298,10292,M54.5,Low back pain,True
+80905,50557,10152,E11.9,Type 2 diabetes mellitus without complications,False
+80906,50616,10229,N39.0,Urinary tract infection,False
+80907,50170,10204,I10,Essential (primary) hypertension,True
+80908,50774,10041,I10,Essential (primary) hypertension,True
+80909,50084,10039,E78.5,"Hyperlipidemia, unspecified",False
+80910,50199,10101,J10.1,Influenza with other respiratory manifestations,False
+80911,50534,10239,J45.909,"Unspecified asthma, uncomplicated",True
+80912,50017,10039,M54.5,Low back pain,False
+80913,50626,10120,I10,Essential (primary) hypertension,True
+80914,50731,10173,F41.9,"Anxiety disorder, unspecified",True
+80915,50349,10296,I10,Essential (primary) hypertension,False
+80916,50247,10225,J10.1,Influenza with other respiratory manifestations,True
+80917,50400,10298,J10.1,Influenza with other respiratory manifestations,True
+80918,50253,10162,M54.5,Low back pain,True
+80919,50134,10195,R51.9,"Headache, unspecified",True
+80920,50394,10189,E11.9,Type 2 diabetes mellitus without complications,True
+80921,50554,10001,F41.9,"Anxiety disorder, unspecified",True
+80922,50549,10164,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80923,50354,10098,E78.5,"Hyperlipidemia, unspecified",True
+80924,50675,10203,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80925,50720,10218,E78.5,"Hyperlipidemia, unspecified",True
+80926,50477,10032,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80927,50638,10096,R51.9,"Headache, unspecified",True
+80928,50646,10117,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80929,50176,10145,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80930,50490,10091,J10.1,Influenza with other respiratory manifestations,False
+80931,50003,10272,J10.1,Influenza with other respiratory manifestations,False
+80932,50315,10296,E78.5,"Hyperlipidemia, unspecified",True
+80933,50742,10062,N39.0,Urinary tract infection,True
+80934,50054,10242,j45.909,"Unspecified asthma, uncomplicated",True
+80935,50591,10119,J45.909,"Unspecified asthma, uncomplicated",False
+80936,50108,10251,i10 ,Essential (primary) hypertension,False
+80937,50417,10196,M54.5,Low back pain,True
+80938,50714,10044,E78.5,"Hyperlipidemia, unspecified",False
+80939,50188,10129,I10,Essential (primary) hypertension,False
+80940,50733,10294,J45.909,"Unspecified asthma, uncomplicated",False
+80941,50413,10190,J45.909,"Unspecified asthma, uncomplicated",False
+80942,50637,10268,e78.5  ,"Hyperlipidemia, unspecified",False
+80943,50279,10014,N39.0,Urinary tract infection,False
+80944,50234,10192,I10,Essential (primary) hypertension,False
+80945,50687,10276,M54.5,Low back pain,True
+80946,50026,10165,N39.0,Urinary tract infection,True
+80947,50419,10109,J10.1,Influenza with other respiratory manifestations,False
+80948,50783,10246,M54.5,Low back pain,False
+80949,50309,10073,I10,Essential (primary) hypertension,True
+80950,50369,10101,I10,Essential (primary) hypertension,False
+80951,50097,10044,E11.9,Type 2 diabetes mellitus without complications,True
+80952,50702,10226,J10.1,Influenza with other respiratory manifestations,True
+80953,50620,10167,M54.5 ,Low back pain,False
+80954,50638,10096,E78.5,"Hyperlipidemia, unspecified",True
+80955,50386,10060,K21.9,Gastro-esophageal reflux disease without esophagitis,True
+80956,50281,10111,E78.5,"Hyperlipidemia, unspecified",True
+80957,50287,10171,J45.909,"Unspecified asthma, uncomplicated",True
+80958,50545,10058,K21.9,Gastro-esophageal reflux disease without esophagitis,False
+80959,50608,10205,R51.9,"Headache, unspecified",False
+80960,50497,10256,R51.9,"Headache, unspecified",True
