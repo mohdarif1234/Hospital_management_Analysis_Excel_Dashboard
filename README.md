@@ -82,7 +82,7 @@ The dataset is divided into **7 interrelated tables**:
 ---
 
 ## 📷 Dashboard Preview
-![Hospital Dashboard](./Screenshot.png)
+(./Screenshot 2025-08-20 183827.png)
 
 ---
 
