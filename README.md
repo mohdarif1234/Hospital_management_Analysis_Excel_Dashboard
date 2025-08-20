@@ -82,7 +82,7 @@ The dataset is divided into **7 interrelated tables**:
 ---
 
 ## 📷 Dashboard Preview
-(./Screenshot 2025-08-20 183827.png)
+<a href="https://github.com/mohdarif1234/Hospital_management_Analysis_Excel_Dashboard/blob/main/Screenshot%202025-08-20%20183827.png">[Open DashBoard Image]</a>
 
 ---
 
